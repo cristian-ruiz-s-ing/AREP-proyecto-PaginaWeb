@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    padding-left: 5%;
+    padding-top: 2.5%;
+    padding-right: 8%;
+    padding-bottom: 0%;
+    
+}
+
+ul {
+    list-style-type: square;
+}
+
+#noticias-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#noticias-container div {
+    flex: 0 0 30%; /* Tamaño de las noticias en el contenedor */
+    margin: 10px;
+    padding: 10px;
+}

@@ -1,0 +1,23 @@
+const parrafo = document.getElementById("bienvenida");
+
+parrafo.innerHTML = `
+    <h2>¡Bienvenido al Emocionante Mundo del Fútbol!</h2><br>
+    <p>
+        El fútbol, conocido en muchas partes del mundo como el "deporte rey", es una pasión universal que une a personas de todos los rincones del planeta. Ya sea que seas un apasionado seguidor de un equipo en particular o simplemente un amante del deporte en general, el fútbol tiene un atractivo único que lo convierte en un fenómeno global.
+    </p>
+    <p>
+        Es mucho más que un deporte; es un estilo de vida, una forma de expresión y una fuente inagotable de emociones. Desde los épicos enfrentamientos en el terreno de juego hasta las historias inspiradoras de superación personal, el fútbol nos ofrece un constante flujo de momentos memorables y experiencias inolvidables.
+    </p>
+    <p>
+        En nuestra página, te invitamos a sumergirte en el fascinante mundo del fútbol y llevar tu pasión al siguiente nivel. Aquí, encontrarás todo lo que necesitas para disfrutar de los partidos de fútbol al máximo, desde información detallada sobre equipos y jugadores hasta estadísticas en tiempo real y análisis profundos. Pero eso no es todo, ¡también ofrecemos la emoción de las apuestas!
+    </p>
+    <p>
+        Nuestra plataforma de apuestas te brinda la oportunidad de hacer tus pronósticos y vivir cada partido con un nivel de emoción sin igual. ¿Crees que conoces a tu equipo favorito mejor que nadie? ¿Tienes la intuición para predecir el próximo gol? ¡Atrévete a poner a prueba tus conocimientos y habilidades!
+    </p>
+    <p>
+        Únete a nosotros y sé parte de la acción. Explora las cuotas, las apuestas en vivo y los emocionantes mercados disponibles para cada partido. Ya sea que estés buscando apostar en tu liga local o en competencias internacionales de élite, estamos aquí para acompañarte en cada paso del camino.
+    </p>
+    <p>
+        En nuestro sitio, el fútbol se trata de pasión, competencia y oportunidades emocionantes. Así que prepárate para vivir la emoción de cada minuto en el campo y la adrenalina de cada apuesta ganadora. ¡El fútbol te espera, y estamos aquí para hacerlo aún más emocionante!
+    </p>
+`;
